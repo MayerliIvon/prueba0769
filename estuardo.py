@@ -1,1 +1,1 @@
-print("chakalita")
+print("chakalita chakalito")
