@@ -1,0 +1,5 @@
+Nombre: Mayerli | Puntuación: 3
+Nombre: Isabel | Puntuación: 4
+Nombre: Carlos | Puntuación: 3
+Nombre: Marian | Puntuación: 4
+Nombre: Gabriela | Puntuación: 5

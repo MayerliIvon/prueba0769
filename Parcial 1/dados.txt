@@ -1,0 +1,5 @@
+Lanzamiento 2: Suma: 12 - Continua
+Lanzamiento 3: Suma: 10 - Continua
+Lanzamiento 4: Suma: 11 - Continua
+Lanzamiento 5: Suma: 2 - Continua
+Lanzamiento 5: Suma: 8 - Ganaste

@@ -1,0 +1,4 @@
+10 es un numero compuesto.
+15 es un numero compuesto.
+2 es un numero primo.
+5 es un numero primo.
